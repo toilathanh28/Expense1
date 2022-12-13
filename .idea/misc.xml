@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Study/IOT/Coursework/app/src/main/res/drawable-v24/search_bg.xml" value="0.2555" />
+        <entry key="..\:/Study/IOT/Coursework/app/src/main/res/drawable/search.xml" value="0.2555" />
+        <entry key="..\:/Study/IOT/Coursework/app/src/main/res/drawable/search_trip.xml" value="0.2555" />
+        <entry key="..\:/Study/IOT/Coursework/app/src/main/res/layout/activity_detailof_trip.xml" value="0.176" />
+        <entry key="..\:/Study/IOT/Coursework/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Study/IOT/Coursework/app/src/main/res/layout/activity_sqlite_database.xml" value="0.2222222222222222" />
+        <entry key="..\:/Study/IOT/Coursework/app/src/main/res/layout/activity_sqlite_database2.xml" value="0.25" />
+        <entry key="..\:/Study/IOT/Coursework/app/src/main/res/layout/activity_sqlite_database3.xml" value="0.2" />
+        <entry key="..\:/Study/IOT/Coursework/app/src/main/res/layout/alltrips_row_item.xml" value="0.72" />
+        <entry key="..\:/Study/IOT/Coursework/app/src/main/res/layout/rcent_row_item.xml" value="0.2" />
+        <entry key="..\:/Study/IOT/Coursework/app/src/main/res/layout/recent_row_item.xml" value="0.536" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
