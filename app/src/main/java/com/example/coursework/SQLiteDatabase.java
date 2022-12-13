@@ -51,9 +51,9 @@ public class SQLiteDatabase extends AppCompatActivity {
 
                 Boolean checkinsertdata = DB.insertTripData(trip_name1TXT, place_name1TXT, price1TXT, risk_assessment1TXT, DoTTXT);
                 if(checkinsertdata == true)
-                Toast.makeText(SQLiteDatabase.this, "New Entry Inserted", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(SQLiteDatabase.this, "New Entry Inserted", Toast.LENGTH_SHORT).show();
                 else
-                Toast.makeText(SQLiteDatabase.this, "New Entry not Inserted", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(SQLiteDatabase.this, "New Entry not Inserted", Toast.LENGTH_SHORT).show();
             }
         });
 
